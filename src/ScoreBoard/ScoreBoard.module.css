@@ -1,0 +1,25 @@
+.board{
+position: absolute;
+top:0;
+left: 0;
+height: 100vh;
+width: 25%;
+background-color: red;
+}
+.board img{
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  height: 100vh;
+}
+.score_board {
+  position: relative;
+  width: 55%;
+background-color: rgb(242, 209, 224);
+  top: 30%;
+  margin-left: 15%;
+  border-radius: 20px;
+  padding:   30% 0;
+  text-align: center;
+  left: 5%;
+}
